@@ -1,0 +1,22 @@
+{
+    "sourceFile": "archivo3.html.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1742355283836,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1742355354757,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -28,9 +28,8 @@\n     <div class=\"libro\">\r\n         <h2>El Principito</h2>\r\n         <p>Autor: Antoine de Saint-Exupéry</p>\r\n     </div>\r\n-\r\n     <div class=\"libro\">\r\n         <h2>Cien Años de Soledad</h2>\r\n         <p>Autor: Gabriel García Márquez</p>\r\n     </div>\r\n"
+                }
+            ],
+            "date": 1742355283836,
+            "name": "Commit-0",
+            "content": "<!DOCTYPE html>\r\n<html lang=\"es\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Exposición de Libros</title>\r\n    <style>\r\n        body {\r\n            font-family: Arial, sans-serif;\r\n            margin: 20px;\r\n            padding: 20px;\r\n            background-color: #ffefd5; /* Color pastel */\r\n        }\r\n        .libro {\r\n            background-color: #ffffff;\r\n            padding: 15px;\r\n            margin-bottom: 10px;\r\n            border-radius: 5px;\r\n            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <h1>Exposición de Libros</h1>\r\n    <p>Bienvenidos a nuestra exposición de libros, \r\n        donde podrás encontrar una selección de títulos destacados.</p>\r\n    \r\n    <div class=\"libro\">\r\n        <h2>El Principito</h2>\r\n        <p>Autor: Antoine de Saint-Exupéry</p>\r\n    </div>\r\n\r\n    <div class=\"libro\">\r\n        <h2>Cien Años de Soledad</h2>\r\n        <p>Autor: Gabriel García Márquez</p>\r\n    </div>\r\n</body>\r\n</html>\r\n"
+        }
+    ]
+}
