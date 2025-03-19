@@ -1,0 +1,18 @@
+{
+    "sourceFile": "VentaZapatos.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1742358143375,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1742358143375,
+            "name": "Commit-0",
+            "content": "<!DOCTYPE html>\r\n<html lang=\"es\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Zapatos</title>\r\n    <style>\r\n        body {\r\n            font-family: 'Georgia', serif;\r\n            background-color: #f9f9f9;\r\n            margin: 0;\r\n            padding: 0;\r\n            color: #333;\r\n            text-align: center;\r\n        }\r\n        header {\r\n            background-color: #333;\r\n            color: #fff;\r\n            padding: 10px 0;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n    <header>\r\n        <h1>Zapatos</h1>\r\n        <p>Descubre la sofisticación y el confort en cada paso</p>\r\n        <p>PRUEBA PARA REALIZAR UN COMMIT</p>\r\n    </header>\r\n    <section id=\"coleccion\">\r\n        <h2>Colección Exclusiva</h2>\r\n        <p>Nuestra colección ofrece zapatos para cada ocasión: desde modelos clásicos hasta los más vanguardistas.\r\n        Elaborados con materiales de alta calidad, pensados para brindar elegancia y comodidad.</p>\r\n    </section>\r\n    <section id=\"novedades\">\r\n        <h2>Novedades</h2>\r\n        <p>¡Descubre los nuevos lanzamientos! Cada temporada renovamos nuestra colección \r\n            para ofrecerte las últimas tendencias en calzado elegante.</p>\r\n    </section>\r\n</body>\r\n</html>\r\n"
+        }
+    ]
+}
